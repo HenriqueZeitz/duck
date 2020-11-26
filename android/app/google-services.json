@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945633003003",
+    "firebase_url": "https://duck-7a860.firebaseio.com",
+    "project_id": "duck-7a860",
+    "storage_bucket": "duck-7a860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945633003003:android:3e35d26d4f28e8a976375e",
+        "android_client_info": {
+          "package_name": "com.example.duck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945633003003-qa6ci2e7b0d36gepmc2rd5cmtctvce8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvPMUpx2tvWZzhqM4ZFBlNaDIDKT6L_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945633003003-qa6ci2e7b0d36gepmc2rd5cmtctvce8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
